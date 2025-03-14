@@ -1,0 +1,2 @@
+/home/gr624_addan/RiderProjects/AvaloniaApplication2/AvaloniaApplication2/obj/Debug/net8.0/AvaloniaApplication2.csproj.AssemblyReference.cache
+/home/gr624_addan/RiderProjects/AvaloniaApplication2/AvaloniaApplication2/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
