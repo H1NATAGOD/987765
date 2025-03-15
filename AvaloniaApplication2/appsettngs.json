@@ -1,9 +1,0 @@
-{
-  "ConnectionStrings": {
-    "Default": "Host=10.30.0.137;Port=5432;Database=gr624_addan;Username=gr624_addan;Password=RRUatiM3f5y#2"
-  },
-  "Encryption": {
-    "Key": "supersecretkey123!",
-    "IV": "initialvector456"
-  }
-}
