@@ -1,0 +1,16 @@
+<!-- AddPhysicalDialog.axaml -->
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:vm="using:AvaloniaApplication2.ViewModels"
+        x:Class="AvoloniaApplication2.Views.AddPhysicalDialog"
+        Title="Добавить физ. лицо"
+        Width="300">
+    <StackPanel Margin="10" Spacing="5">
+        <TextBox Watermark="Фамилия" Text="{Binding LastName}"/>
+        <TextBox Watermark="Имя" Text="{Binding FirstName}"/>
+        <TextBox Watermark="Телефон" Text="{Binding Phone}"/>
+        <StackPanel Orientation="Horizontal" Spacing="5" HorizontalAlignment="Right">
+            <Button Content="Отмена" Command="{Binding CancelCommand}"/>
+            <Button Content="Сохранить" Command="{Binding SaveCommand}"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

@@ -1,0 +1,9 @@
+{
+  "ConnectionStrings": {
+    "Default": "Host=localhost;Port=5432;Database=postgres;Username=postgres;Password=1234"
+  },
+  "Encryption": {
+    "Key": "supersecretkey123!",
+    "IV": "initialvector456"
+  }
+}
